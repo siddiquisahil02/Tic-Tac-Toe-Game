@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681609141956",
+    "firebase_url": "https://tic-tac-toe-bk14.firebaseio.com",
+    "project_id": "tic-tac-toe-bk14",
+    "storage_bucket": "tic-tac-toe-bk14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681609141956:android:4edc3472e908e2e50e7391",
+        "android_client_info": {
+          "package_name": "com.boiz.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681609141956-crrl6j0334b2p6ovoevq71bbojl6d6an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpcxBL_BpmwRRTXEuCwNkggXGQ4dsnwog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681609141956-crrl6j0334b2p6ovoevq71bbojl6d6an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
